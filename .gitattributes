@@ -4,4 +4,4 @@
 .gitignore text
 
 .tmux.conf eol=lf
-.tmux.conf.local eol=lf
+.tmux.local.conf eol=lf
